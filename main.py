@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import Functions
 import datetime
 import pprint
-
+ 
 apiKey = 'gcJLtOs6tZYTOBEyIYY0JZBDagmFMkc5SY5T8R792cCUgBn7YCLfG7pOJZG3J36x '
 secretKey = 'EYyaqoqRyPxozdDQQmlL7xQiHaqDIxgGAav68UoYAznTAOI6darEG132kavhI3Vh'
 client = Client(apiKey, secretKey)
